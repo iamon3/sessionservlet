@@ -1,8 +1,9 @@
 sessionservlet
 --------------------
 
-   1. Simple servlet based web application. User session management.Useful Link
-          http://coding4ataraxia.blogspot.in/ 
+   1. Simple servlet based web application. User session management.
+   
+           Useful Link : http://coding4ataraxia.blogspot.in/ 
 
 
    2. To build the project :
@@ -15,6 +16,6 @@ sessionservlet
            cd $CatalinaHome; cd bin; sudo ./catalina.sh start
     
     
-    4. In the browser visit the URL
+   4. In the browser visit the URL
       
            http://localhost:8080/session-webapp
